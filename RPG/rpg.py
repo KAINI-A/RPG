@@ -289,9 +289,10 @@ def game():
             pygame.display.update()
             pygame.time.delay(3000)
             return coins, False
-
-        encounter = False  # Reset encounter flag
-
+            
+        # Reset encounter flag
+        encounter = False  
+        
         # Wait for the player to press ENTER to keep walking
         waiting_for_enter = True
         while waiting_for_enter:
