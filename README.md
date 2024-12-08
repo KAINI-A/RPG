@@ -56,6 +56,7 @@ Collecting items like "helmet," "shield," and "chest plate" boosts your armor, w
 Different levels introduce new creatures and tougher challenges.
 Contributing
 Contributions are welcome! If you'd like to improve the game, please fork the repository and submit a pull request.
+Goodluck!
 
 License
 This project is licensed under the MIT License.
